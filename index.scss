@@ -1,0 +1,36 @@
+#headernav {
+    background-color: black;
+    img {
+        height: 100px;
+        padding-left: 2em;
+        display: inline-flex;
+    }
+    h3 {
+        display: inline-flex;
+        justify-content: left;
+    }
+    input {
+        width:300px;
+        height: 35px;
+
+
+    }
+}
+#main {
+    img {
+        width:100%;
+        height: 200px;
+    }
+}
+#sidebar {
+    padding-top: 10px;
+    img {
+        width: 100px;
+        display: inline-block;
+    }
+    h4 {
+        display: inline-block;
+    }
+
+
+}
